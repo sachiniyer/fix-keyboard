@@ -15,5 +15,8 @@
 1. flash top coreboot/top_coreboot.bin
 2. maybe flash bottom, it is there to flash coreboot/bottom_coreboot.bin
 
+# Flashrom command
+`sudo flashrom -p linux_spi:dev=/dev/spidev0.0,spispeed=512 -c CHIP_NAME -r BINARY_NAME.bin`
 
-yatin was here
+top chip = `MX25L3206E/MX25L3208E`
+bottom chip = `MX25L6406E/MX25L6408E`
