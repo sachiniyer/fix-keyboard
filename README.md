@@ -14,3 +14,6 @@
 # Go back to coreboot
 1. flash top coreboot/top_coreboot.bin
 2. maybe flash bottom, it is there to flash coreboot/bottom_coreboot.bin
+
+
+yatin was here
