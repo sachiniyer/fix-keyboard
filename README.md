@@ -1,3 +1,6 @@
+# WARNING
+This was a repo originally only for me, but I realized that it is a nice consolidation of all the files that you would need to flash your keyboard properly, so I made it public am archiving.
+
 # Flashing original bios
 1. Flash top chip ` stock/v2.60_patched_signed.bin `
 2. Try boot -> if boot move to next heading, else continue
